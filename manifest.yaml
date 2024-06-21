@@ -9,8 +9,7 @@ dublin_core:
     - Dan Dennison
     - Jamie Duguid
     - >-
-      Paul M Fahnestock, M.Div. Reformed Theological Seminary, D.Min. Pittsburgh
-      Theological Seminary
+      Paul M Fahnestock, M.Div. Reformed Theological Seminary, D.Min. Pittsburgh Theological Seminary
     - Michael Francis
     - 'Laura Glassel, MA in Bible Translation'
     - 'Jesse Griffin, BA Biblical Studies, MA Biblical Languages'
@@ -23,8 +22,7 @@ dublin_core:
     - Jack Messarra
     - Gene Mullen
     - >-
-      Adam W. Nagelvoort, M.Div. Academic Ministries, Columbia International
-      University
+      Adam W. Nagelvoort, M.Div. Academic Ministries, Columbia International University
     - 'Timothy Neu, Ph.D. Biblical Studies'
     - Kristy Nickell
     - Tom Nickell
@@ -35,11 +33,9 @@ dublin_core:
     - 'Susan Quigley, MA in Linguistics'
     - Dean Ropp
     - >-
-      Joel D. Ruark, M.A.Th., Th.M., Ph.D. in Old Testament, University of
-      Stellenbosch
+      Joel D. Ruark, M.A.Th., Th.M., Ph.D. in Old Testament, University of Stellenbosch
     - >-
-      Larry Sallee, Th.M Dallas Theological Seminary, D.Min. Columbia Biblical
-      Seminary
+      Larry Sallee, Th.M Dallas Theological Seminary, D.Min. Columbia Biblical Seminary
     - 'Peter Smircich, BA Philosophy'
     - 'Doug Smith, M.T.S., M.Div., Th.M., Midwestern Baptist Theological Seminary'
     - Leonard Smith
@@ -52,8 +48,7 @@ dublin_core:
     - James Vigen
     - Hendrik "Henry" de Vries
     - >-
-      Thomas Warren, M.Div., Trinity Evangelical Divinity School, D.Min,
-      Reformed Theological Seminary
+      Thomas Warren, M.Div., Trinity Evangelical Divinity School, D.Min, Reformed Theological Seminary
     - 'Angela Westmoreland, M.A. in Theological Studies (Biblical Language track)'
     - 'Henry Whitney, BA Linguistics'
     - 'Benjamin Wright, MA Applied Linguistics, Dallas International University'
@@ -61,10 +56,7 @@ dublin_core:
     - Door43 World Missions Community
   creator: unfoldingWord
   description: >-
-    An open-licensed update of the ASV, intended to provide a 'form-centric'
-    understanding of the Bible. It increases the translator's understanding of
-    the lexical and grammatical composition of the underlying text by adhering
-    closely to the word order and structure of the originals.
+    An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals.
   format: text/usfm3
   identifier: ult
   issued: '2024-06-21'
@@ -367,13 +359,6 @@ projects:
     identifier: hag
     sort: 37
     path: ./37-HAG.usfm
-    categories:
-      - bible-ot
-  - title: Zechariah
-    versification: ufw
-    identifier: zec
-    sort: 38
-    path: ./38-ZEC.usfm
     categories:
       - bible-ot
   - title: Malachi
