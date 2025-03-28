@@ -124,6 +124,13 @@ projects:
     path: ./02-EXO.usfm
     categories:
       - bible-ot
+  - title: Joshua
+    versification: ufw
+    identifier: jos
+    sort: 6
+    path: ./06-JOS.usfm
+    categories:
+      - bible-ot
   - title: Judges
     versification: ufw
     identifier: jdg
