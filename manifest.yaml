@@ -135,7 +135,7 @@ projects:
     versification: ufw
     identifier: deu
     sort: 5 
-    path: ./05-LEV.usfm
+    path: ./05-DEU.usfm
     categories:
       - bible-ot
   - title: Joshua
