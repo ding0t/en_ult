@@ -5,7 +5,7 @@
 \toc1 The Second Book of Kings
 \toc2 Second Kings
 \toc3 2Ki
-\mt Second Kings
+\mt1 Second Kings
 
 \ts\*
 \c 1
@@ -17053,7 +17053,8 @@
 \zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="1" x-content="אֲשֶׁ֨ר"\*\w which|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִישׁ֙"\*\w a|x-occurrence="1" x-occurrences="1"\w*
 \w man|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H5564" x-lemma="סָמַךְ" x-morph="He,VNi3ms" x-occurrence="1" x-occurrences="1" x-content="יִסָּמֵ֥ךְ"\*\w leans|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5564" x-lemma="סָמַךְ" x-morph="He,VNi3ms" x-occurrence="1" x-occurrences="1" x-content="יִסָּמֵ֥ךְ"\*\w supports|x-occurrence="1" x-occurrences="1"\w*
+\w himself|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H0935" x-lemma="בּוֹא" x-morph="He,C:Vqq3ms" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בָ֥א"\*\w and|x-occurrence="1" x-occurrences="2"\w*
 \w it|x-occurrence="1" x-occurrences="2"\w*
 \w goes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -18260,8 +18261,7 @@
 \zaln-s |x-strong="H4791" x-lemma="מָרוֹם" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מָר֛וֹם"\*\w upward|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*?
 \zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w Against|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H6918" x-lemma="קָדוֹשׁ" x-morph="He,Aamsc" x-occurrence="1" x-occurrences="1" x-content="קְד֥וֹשׁ"\*\w the|x-occurrence="1" x-occurrences="1"\w*
-\w Holy|x-occurrence="1" x-occurrences="1"\w*
-\w One|x-occurrence="1" x-occurrences="1"\w*
+\w Holy|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H6918" x-lemma="קָדוֹשׁ" x-morph="He,Aamsc" x-occurrence="1" x-occurrences="1" x-content="קְד֥וֹשׁ"\*\w One|x-occurrence="1" x-occurrences="1"\w*}
 \w of|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵֽל"\*\w Israel|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
 

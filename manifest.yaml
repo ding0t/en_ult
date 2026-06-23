@@ -67,12 +67,12 @@ dublin_core:
     closely to the word order and structure of the originals.
   format: text/usfm3
   identifier: ult
-  issued: '2026-01-14'
+  issued: '2026-06-24'
   language:
     direction: ltr
     identifier: en
     title: English
-  modified: '2026-01-14'
+  modified: '2026-06-24'
   publisher: unfoldingWord
   relation:
     - en/tw
@@ -93,11 +93,11 @@ dublin_core:
       version: '0.26'
     - identifier: ult
       language: en
-      version: '87'
+      version: '88'
   subject: Aligned Bible
   title: unfoldingWord® Literal Text
   type: bundle
-  version: '88'
+  version: '89'
 checking:
   checking_entity:
     - unfoldingWord
@@ -134,7 +134,7 @@ projects:
   - title: Deuteronomy
     versification: ufw
     identifier: deu
-    sort: 5 
+    sort: 5
     path: ./05-DEU.usfm
     categories:
       - bible-ot
@@ -215,6 +215,13 @@ projects:
     path: ./18-JOB.usfm
     categories:
       - bible-ot
+  - title: Psalms
+    versification: ufw
+    identifier: psa
+    sort: 19
+    path: ./19-PSA.usfm
+    categories:
+      - bible-ot
   - title: Proverbs
     versification: ufw
     identifier: pro
@@ -222,11 +229,18 @@ projects:
     path: ./20-PRO.usfm
     categories:
       - bible-ot
-  - title: Song of Solomon
+  - title: Song of Songs
     versification: ufw
     identifier: sng
     sort: 22
     path: ./22-SNG.usfm
+    categories:
+      - bible-ot
+  - title: Lamentations
+    versification: ufw
+    identifier: lam
+    sort: 25
+    path: ./25-LAM.usfm
     categories:
       - bible-ot
   - title: Joel
@@ -255,6 +269,13 @@ projects:
     identifier: nam
     sort: 34
     path: ./34-NAM.usfm
+    categories:
+      - bible-ot
+  - title: Habakkuk
+    versification: ufw
+    identifier: hab
+    sort: 35
+    path: ./35-HAB.usfm
     categories:
       - bible-ot
   - title: Zephaniah

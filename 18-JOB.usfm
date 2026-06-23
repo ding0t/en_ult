@@ -5,7 +5,7 @@
 \toc1 The Book of Job
 \toc2 Job
 \toc3 Job
-\mt Job
+\mt1 Job
 
 \ts\*
 \c 1
@@ -760,8 +760,6 @@
 \w him|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H2600" x-lemma="חִנָּם" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="חִנָּֽם"\*\w for|x-occurrence="1" x-occurrences="1"\w*
 \w nothing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
-
-\ts\*
 
 \ts\*
 \v 4 \zaln-s |x-strong="c:H6030b" x-lemma="עָנָה" x-morph="He,C:Vqw3ms" x-occurrence="1" x-occurrences="1" x-content="וַ⁠יַּ֧עַן"\*\w And|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -2602,7 +2600,7 @@
 \zaln-s |x-strong="H5704" x-lemma="עַד" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="עָ֝דֶ֗י⁠הָ"\*\w as|x-occurrence="1" x-occurrences="2"\w*
 \w far|x-occurrence="1" x-occurrences="1"\w*
 \w as|x-occurrence="2" x-occurrences="2"\w*
-\w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="c:H2659" x-lemma="חָפֵר" x-morph="He,C:Vqw3mp" x-occurrence="1" x-occurrences="1" x-content="וַ⁠יֶּחְפָּֽרוּ"\*\w and|x-occurrence="1" x-occurrences="1"\w*
 \w they|x-occurrence="3" x-occurrences="3"\w*
 \w were|x-occurrence="2" x-occurrences="2"\w*
@@ -3214,7 +3212,6 @@
 \w appeal|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 
 \ts\*
-
 \q1 \v 6 \zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִם"\*\w if|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אָ֥תָּה"\*\w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אָ֥תָּה"\*\w are|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
 \zaln-s |x-strong="H2134" x-lemma="זַךְ" x-morph="He,Aamsa" x-occurrence="1" x-occurrences="1" x-content="זַ֥ךְ"\*\w pure|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -7993,7 +7990,6 @@
 \w belly|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
-
 \q1 \v 28 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֣י"\*\w If|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֹ֭אמְרוּ"\*\w you|x-occurrence="1" x-occurrences="1"\w*
 \w say|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*, ‘\zaln-s |x-strong="H4100" x-lemma="מָה" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מַה"\*\w How|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -17953,8 +17949,8 @@
 \w offering|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H1157" x-lemma="בְּעַד" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="בַּֽעַדְ⁠כֶ֔ם"\*\w for|x-occurrence="2" x-occurrences="3"\w*
 \w yourselves|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\zaln-s |x-strong="c:H0347" x-lemma="אִיּוֹב" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִיּ֣וֹב"\*\w And|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H0347" x-lemma="אִיּוֹב" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אִיּֽוֹב"\*\w Job|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="c:H0347" x-lemma="אִיּוֹב" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִיּ֣וֹב"\*\w And|x-occurrence="1" x-occurrences="1"\w*
+\w Job|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H5650" x-lemma="עֶבֶד" x-morph="He,Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="עַבְדִּ֔⁠י"\*\w my|x-occurrence="2" x-occurrences="3"\w*
 \w servant|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H6419" x-lemma="פָּלַל" x-morph="He,Vti3ms" x-occurrence="1" x-occurrences="1" x-content="יִתְפַּלֵּ֖ל"\*\w will|x-occurrence="1" x-occurrences="2"\w*
@@ -17988,7 +17984,7 @@
 \zaln-s |x-strong="k:H5650" x-lemma="עֶבֶד" x-morph="He,R:Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠עַבְדִּ֥⁠י"\*\w like|x-occurrence="1" x-occurrences="1"\w*
 \w my|x-occurrence="3" x-occurrences="3"\w*
 \w servant|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
-\zaln-s |x-strong="c:H0347" x-lemma="אִיּוֹב" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִיּ֣וֹב"\*\w Job|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*.”
+\zaln-s |x-strong="H0347" x-lemma="אִיּוֹב" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אִיּֽוֹב"\*\w Job|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*.”
 \v 9 \zaln-s |x-strong="c:H3212" x-lemma="יָלַךְ" x-morph="He,C:Vqw3mp" x-occurrence="1" x-occurrences="1" x-content="וַ⁠יֵּלְכוּ֩"\*\w And|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0464" x-lemma="אֱלִיפַז" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אֱלִיפַ֨ז"\*\w Eliphaz|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="d:H8489" x-lemma="תֵּימָנִי" x-morph="He,Td:Ngmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠תֵּֽימָנִ֜י"\*\w the|x-occurrence="1" x-occurrences="4"\w*
