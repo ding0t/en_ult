@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-07-16T08:39:04.382Z",
+    "dateCreated": "2026-07-16T22:04:08.912Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -25,7 +25,7 @@
       "uWBurritos": {
         "ULT": {
           "revision": "1",
-          "timestamp": "2026-07-16T08:39:04.382Z"
+          "timestamp": "2026-07-16T22:04:08.912Z"
         }
       }
     },
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "5227b6167fa687b2ff0dabbf2453c0f9"
+        "md5": "7f9a8a6110729793070d4b72d55521f4"
       },
       "mimeType": "text/plain",
-      "size": 4627979,
+      "size": 4630080,
       "scope": {
         "EZK": []
       }
