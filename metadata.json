@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-07-22T17:26:37.272Z",
+    "dateCreated": "2026-07-22T22:37:12.865Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "9bfdf97ca42e65b4228e36820d5bacbd84edbc94",
-          "timestamp": "2026-07-22T17:26:37.272Z"
+          "revision": "11c2d439e312cbec339aaba8b4c8d7f54254a9d9",
+          "timestamp": "2026-07-22T22:37:12.865Z"
         }
       }
     },
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "37485ac7a4854dd07e46a204eaef1c7d"
+        "md5": "943833871491f1eddfdf849bc998940b"
       },
       "mimeType": "text/plain",
-      "size": 4634830,
+      "size": 4636569,
       "scope": {
         "EZK": []
       }
