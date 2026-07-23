@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-07-23T18:19:26.942Z",
+    "dateCreated": "2026-07-23T18:26:55.058Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "266cd0baa853192933f19bdec7a0a528e006d5bd",
-          "timestamp": "2026-07-23T18:19:26.942Z"
+          "revision": "99c5311900b9d88570a860d72875b3f27dfa4ae4",
+          "timestamp": "2026-07-23T18:26:55.058Z"
         }
       }
     },
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "a5853e78128ab19aecba3c25f5df42ac"
+        "md5": "b2f61e55641c006fc9bfbc37b6776a0a"
       },
       "mimeType": "text/plain",
-      "size": 4637411,
+      "size": 4637405,
       "scope": {
         "EZK": []
       }
@@ -1207,10 +1207,10 @@
     },
     "ingredients/ISA.usfm": {
       "checksum": {
-        "md5": "f9ecdf262ec7e7553ea34a081a6c901a"
+        "md5": "50b9ca7f4ed5c34d24deec84025d9b17"
       },
       "mimeType": "text/plain",
-      "size": 4397830,
+      "size": 4397827,
       "scope": {
         "ISA": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "e255b00e2dd66892899c5fafa6649d46"
+        "md5": "90aded9d58eb9fbc5cb1755c2fb8f4d5"
       },
       "mimeType": "text/plain",
-      "size": 4206078,
+      "size": 4206000,
       "scope": {
         "JER": []
       }
@@ -1394,10 +1394,10 @@
     },
     "ingredients/NEH.usfm": {
       "checksum": {
-        "md5": "7576991acb24d9f9eb7f5166df9e77a2"
+        "md5": "b7021a4f5866f8bcfc97cd8a19b00ac2"
       },
       "mimeType": "text/plain",
-      "size": 1347067,
+      "size": 1347064,
       "scope": {
         "NEH": []
       }
@@ -1474,10 +1474,10 @@
     },
     "ingredients/ROM.usfm": {
       "checksum": {
-        "md5": "f6d8f9b87050ed73447b96c0c687bb95"
+        "md5": "24422750697afaee042b733a7f4dfe9f"
       },
       "mimeType": "text/plain",
-      "size": 1521118,
+      "size": 1521115,
       "scope": {
         "ROM": []
       }
