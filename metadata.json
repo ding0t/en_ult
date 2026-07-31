@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-07-31T19:05:55.399Z",
+    "dateCreated": "2026-07-31T19:06:22.694Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "f4ec794d7ad92dccd166fceb97fbdd07de53d9f6",
-          "timestamp": "2026-07-31T19:05:55.399Z"
+          "revision": "d1bbae9269bb0debddddd49d21d08f41ef5ebeb5",
+          "timestamp": "2026-07-31T19:06:22.694Z"
         }
       }
     },
