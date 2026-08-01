@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-07-31T22:14:33.801Z",
+    "dateCreated": "2026-08-01T15:41:02.119Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "0ca100aff2f04d11a5b7b0a4c7e7fff17fc53cc4",
-          "timestamp": "2026-07-31T22:14:33.801Z"
+          "revision": "e6ad4096df1110db5252ae366a3bf6698a50d4de",
+          "timestamp": "2026-08-01T15:41:02.119Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "e640332a0242a38c370538efd8fc29e6"
+        "md5": "1a38d46f2eae1c88dd933ed190a1a50e"
       },
       "mimeType": "text/plain",
-      "size": 2601354,
+      "size": 2601351,
       "scope": {
         "1CH": []
       }
@@ -940,7 +940,7 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "fb677f084dfb835b4efb66d447847d84"
+        "md5": "da97132eb0d98d4304b624e3f67a6965"
       },
       "mimeType": "text/plain",
       "size": 3302331,
@@ -970,7 +970,7 @@
     },
     "ingredients/2KI.usfm": {
       "checksum": {
-        "md5": "79e24247fee9e5a55eeda9a0124c253f"
+        "md5": "81e99909dc05095a8741ad3507ebdc24"
       },
       "mimeType": "text/plain",
       "size": 3040950,
@@ -1060,10 +1060,10 @@
     },
     "ingredients/DAN.usfm": {
       "checksum": {
-        "md5": "dd644e79cab11782c59e8ea5cb1807ed"
+        "md5": "41ff5639b08d45cce1dd4a4eddef2d32"
       },
       "mimeType": "text/plain",
-      "size": 1501566,
+      "size": 1501502,
       "scope": {
         "DAN": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "14465f3e224a668f0e96b17112fa2e24"
+        "md5": "338a21d439561861b297c43b380670e4"
       },
       "mimeType": "text/plain",
-      "size": 4658185,
+      "size": 4661788,
       "scope": {
         "EZK": []
       }
@@ -1364,10 +1364,10 @@
     },
     "ingredients/MIC.usfm": {
       "checksum": {
-        "md5": "5ec777750d23097c0e087cec9d09b1ce"
+        "md5": "94924451c930e17945aa7dd520afb87a"
       },
       "mimeType": "text/plain",
-      "size": 357121,
+      "size": 357120,
       "scope": {
         "MIC": []
       }
@@ -1404,10 +1404,10 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "794e4c3606d760db7e3f60d95f76c847"
+        "md5": "1e44bae55cfcc6f6aeb0a9fe59f15ece"
       },
       "mimeType": "text/plain",
-      "size": 4079911,
+      "size": 4083006,
       "scope": {
         "NUM": []
       }
