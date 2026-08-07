@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-08-06T20:18:24.793Z",
+    "dateCreated": "2026-08-07T15:19:07.320Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "9b8d5f699b34a50f037821a2dbc0458c184944a0",
-          "timestamp": "2026-08-06T20:18:24.793Z"
+          "revision": "429e75cf76118cf2de45a46bd2abf2561b99be3e",
+          "timestamp": "2026-08-07T15:19:07.320Z"
         }
       }
     },
@@ -890,10 +890,10 @@
     },
     "ingredients/1KI.usfm": {
       "checksum": {
-        "md5": "2bf6542de3c4d3042e7ce7676d185e64"
+        "md5": "d50ae457082179beef5cadfb1d275647"
       },
       "mimeType": "text/plain",
-      "size": 3231439,
+      "size": 3231435,
       "scope": {
         "1KI": []
       }
@@ -1120,20 +1120,20 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "923849500beccd2d7f283fc466c83da5"
+        "md5": "ad86a9a8d01535e816153b8465456043"
       },
       "mimeType": "text/plain",
-      "size": 4670704,
+      "size": 4672107,
       "scope": {
         "EZK": []
       }
     },
     "ingredients/EZR.usfm": {
       "checksum": {
-        "md5": "5693662c59e338cac05340e7786e1c66"
+        "md5": "d8b77b0aa7ccb3f075b03ff89328930c"
       },
       "mimeType": "text/plain",
-      "size": 934140,
+      "size": 934125,
       "scope": {
         "EZR": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "7d73bb2ec34f24032f8468accdc24dd7"
+        "md5": "a9ae1e0a4d13a318a706522b2b596138"
       },
       "mimeType": "text/plain",
-      "size": 4503479,
+      "size": 4504123,
       "scope": {
         "JER": []
       }
@@ -1364,10 +1364,10 @@
     },
     "ingredients/MIC.usfm": {
       "checksum": {
-        "md5": "ba5153d67a6c6afeed4d6e67325276fe"
+        "md5": "b87b3c6e49e188fc8ddae57f26c8584e"
       },
       "mimeType": "text/plain",
-      "size": 357066,
+      "size": 357058,
       "scope": {
         "MIC": []
       }
