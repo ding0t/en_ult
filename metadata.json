@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-08-13T20:03:21.490Z",
+    "dateCreated": "2026-08-13T20:12:06.849Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "127cc1f3696994d967fc25fdd28a3a55d111132e",
-          "timestamp": "2026-08-13T20:03:21.490Z"
+          "revision": "82aad43b84ab35ce7139c2e5e47fea0cd5ef41fb",
+          "timestamp": "2026-08-13T20:12:06.849Z"
         }
       }
     },
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "da1a82ffafe1935bc809d344a8996ead"
+        "md5": "9c4abb58ba24fd81b8f73bac165e29f5"
       },
       "mimeType": "text/plain",
-      "size": 4622447,
+      "size": 4622445,
       "scope": {
         "JER": []
       }
@@ -1364,10 +1364,10 @@
     },
     "ingredients/MIC.usfm": {
       "checksum": {
-        "md5": "56617fc7e1e742ac6fcf04734148c8a9"
+        "md5": "46bc34757177532ff48336990ba8c58e"
       },
       "mimeType": "text/plain",
-      "size": 357207,
+      "size": 357204,
       "scope": {
         "MIC": []
       }
@@ -1404,10 +1404,10 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "53e500ad98624142b51ca38cff2a9f20"
+        "md5": "3658b5e90a3136833ae97687719a0f72"
       },
       "mimeType": "text/plain",
-      "size": 4083026,
+      "size": 4083016,
       "scope": {
         "NUM": []
       }
