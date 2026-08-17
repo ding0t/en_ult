@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-08-17T12:36:22.784Z",
+    "dateCreated": "2026-08-17T16:51:50.400Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "8455902031a0db7e63e4e99809f6265c86f60443",
-          "timestamp": "2026-08-17T12:36:22.784Z"
+          "revision": "e001a9d7ac2adfa5c2d8e779816574e866de0af6",
+          "timestamp": "2026-08-17T16:51:50.400Z"
         }
       }
     },
@@ -890,10 +890,10 @@
     },
     "ingredients/1KI.usfm": {
       "checksum": {
-        "md5": "3ef00d6749fda32e5e9706cd3d5fff22"
+        "md5": "07d557c11f0f60338402bde118996860"
       },
       "mimeType": "text/plain",
-      "size": 3231189,
+      "size": 3231184,
       "scope": {
         "1KI": []
       }
@@ -990,10 +990,10 @@
     },
     "ingredients/2SA.usfm": {
       "checksum": {
-        "md5": "1b23b5d7cdd1291c0caca7cea1f4264b"
+        "md5": "fa3c4aa4744f86aed760c0ba6d8dba2e"
       },
       "mimeType": "text/plain",
-      "size": 2745220,
+      "size": 2745238,
       "scope": {
         "2SA": []
       }
@@ -1197,10 +1197,10 @@
     },
     "ingredients/HOS.usfm": {
       "checksum": {
-        "md5": "97caaf54e12a6b82ce1d9f2f57b0cb58"
+        "md5": "84984d7e35ad73745517bd15fdce25b4"
       },
       "mimeType": "text/plain",
-      "size": 614401,
+      "size": 614402,
       "scope": {
         "HOS": []
       }
@@ -1364,7 +1364,7 @@
     },
     "ingredients/MIC.usfm": {
       "checksum": {
-        "md5": "d5acda665025a0d60104718b3dbf4c19"
+        "md5": "6226a0d8e73560588b86af5f179be6c0"
       },
       "mimeType": "text/plain",
       "size": 357192,
@@ -1454,10 +1454,10 @@
     },
     "ingredients/PSA.usfm": {
       "checksum": {
-        "md5": "00c9c1ebfea5645d2dd407ffeca20690"
+        "md5": "67e8cbefeaab302a5159eee553cba801"
       },
       "mimeType": "text/plain",
-      "size": 5143281,
+      "size": 5143296,
       "scope": {
         "PSA": []
       }
