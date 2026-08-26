@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-08-25T16:16:53.730Z",
+    "dateCreated": "2026-08-26T12:25:48.228Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "69ff80419b6dbd1be362d1401271c3769885039a",
-          "timestamp": "2026-08-25T16:16:53.730Z"
+          "revision": "a1e8182af6b8b72f762e676d5307f32fee358f84",
+          "timestamp": "2026-08-26T12:25:48.228Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "6c2b81fc4baa9f4d245dccfc8c6a3737"
+        "md5": "fe85be6fbc3edc55c0cbf4b3fb0e937a"
       },
       "mimeType": "text/plain",
-      "size": 2601500,
+      "size": 2601586,
       "scope": {
         "1CH": []
       }
@@ -940,10 +940,10 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "2edba804a3dbb886595af45c33d0704f"
+        "md5": "b6d6cc129d3e42c74d878db49dfc4cb6"
       },
       "mimeType": "text/plain",
-      "size": 3302171,
+      "size": 3344283,
       "scope": {
         "2CH": []
       }
@@ -1040,10 +1040,10 @@
     },
     "ingredients/AMO.usfm": {
       "checksum": {
-        "md5": "75e09f04290a8335b3be1f72cdf991a5"
+        "md5": "c961cc8bd710b2feef12434926ec1df0"
       },
       "mimeType": "text/plain",
-      "size": 518626,
+      "size": 518465,
       "scope": {
         "AMO": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "3090693eb01b8b29dd42119275b7eaf2"
+        "md5": "bc271d5a92874b1dee397d14dcc02213"
       },
       "mimeType": "text/plain",
-      "size": 4697472,
+      "size": 4698352,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "c513621e3fc5d8d5bebc2d82f217d36a"
+        "md5": "2c43bdab0b5fb793ad8786d2165182f6"
       },
       "mimeType": "text/plain",
-      "size": 4835430,
+      "size": 4837958,
       "scope": {
         "JER": []
       }
