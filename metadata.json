@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-08-26T22:11:55.489Z",
+    "dateCreated": "2026-08-27T21:25:44.356Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "862aa175294ad6229ab496ef6c82e1d24f4053c9",
-          "timestamp": "2026-08-26T22:11:55.489Z"
+          "revision": "5e0cde995a84471d2ea1bcf25554b0e4f96583bb",
+          "timestamp": "2026-08-27T21:25:44.356Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "fe85be6fbc3edc55c0cbf4b3fb0e937a"
+        "md5": "2bbc59ca32e5faacdf7d6de20c742bdb"
       },
       "mimeType": "text/plain",
-      "size": 2601586,
+      "size": 2601583,
       "scope": {
         "1CH": []
       }
@@ -940,10 +940,10 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "0b2fce2615c2cee39d12c4993fdfbff7"
+        "md5": "cdba6b7422f9bc5b75db7cce41595ba6"
       },
       "mimeType": "text/plain",
-      "size": 3344123,
+      "size": 3343458,
       "scope": {
         "2CH": []
       }
@@ -1040,10 +1040,10 @@
     },
     "ingredients/AMO.usfm": {
       "checksum": {
-        "md5": "c961cc8bd710b2feef12434926ec1df0"
+        "md5": "bfc2774e6e6999aa042d0225a024adb4"
       },
       "mimeType": "text/plain",
-      "size": 518465,
+      "size": 518445,
       "scope": {
         "AMO": []
       }
@@ -1080,10 +1080,10 @@
     },
     "ingredients/ECC.usfm": {
       "checksum": {
-        "md5": "b1a7c8975c53e5e1a360482b0ffa556e"
+        "md5": "f1153bf43b7a0b289111aa27f41574b5"
       },
       "mimeType": "text/plain",
-      "size": 747825,
+      "size": 747826,
       "scope": {
         "ECC": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "f2250be2ea6db3b17e1a933a6e880090"
+        "md5": "0dbd90a3aec07fc899d94fd6f1b17165"
       },
       "mimeType": "text/plain",
-      "size": 4699153,
+      "size": 4705246,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "6e48edaa036ce8d6cb7addd5bbb7e578"
+        "md5": "3a093259e27d890d6bc4f0211f671b4e"
       },
       "mimeType": "text/plain",
-      "size": 4899343,
+      "size": 4899770,
       "scope": {
         "JER": []
       }
@@ -1404,10 +1404,10 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "4267475bcbf5f43df974bd2cea85200a"
+        "md5": "cd8776f68aa4a33cbc66f14c4b0a76be"
       },
       "mimeType": "text/plain",
-      "size": 4083031,
+      "size": 4083034,
       "scope": {
         "NUM": []
       }
