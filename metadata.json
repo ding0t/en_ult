@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-04T23:17:04.916Z",
+    "dateCreated": "2026-09-07T12:41:24.761Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "b8ce9d5d5df30b1d20f8d558851aa3751860a021",
-          "timestamp": "2026-09-04T23:17:04.916Z"
+          "revision": "92ea019aef54872dfb2b85bd29d7eb18076dd397",
+          "timestamp": "2026-09-07T12:41:24.761Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "53e9a9bcacf321c4117c5319c488e7e6"
+        "md5": "43c3fc141559d87923bfa38a1fcb3b0f"
       },
       "mimeType": "text/plain",
-      "size": 2601346,
+      "size": 2601471,
       "scope": {
         "1CH": []
       }
@@ -1040,10 +1040,10 @@
     },
     "ingredients/AMO.usfm": {
       "checksum": {
-        "md5": "f79412b18888b402bbe6ac9b07e1296d"
+        "md5": "1ad5f0df19798fd72bbb01f28fc90ab5"
       },
       "mimeType": "text/plain",
-      "size": 518600,
+      "size": 518603,
       "scope": {
         "AMO": []
       }
@@ -1060,7 +1060,7 @@
     },
     "ingredients/DAN.usfm": {
       "checksum": {
-        "md5": "8009549399305f1801931ba97c57ec84"
+        "md5": "f9233e3d76910ce49bc06c3988f9e525"
       },
       "mimeType": "text/plain",
       "size": 1501050,
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "58d364ed613842bbfbd7c9e948aab81b"
+        "md5": "db3257f979ea431cda0afb7a29acda1d"
       },
       "mimeType": "text/plain",
-      "size": 4711229,
+      "size": 4714456,
       "scope": {
         "EZK": []
       }
@@ -1207,10 +1207,10 @@
     },
     "ingredients/ISA.usfm": {
       "checksum": {
-        "md5": "550f916a97c443d0489f956cc1625205"
+        "md5": "31b223abd89ca2375e580a5da3c153b3"
       },
       "mimeType": "text/plain",
-      "size": 4397611,
+      "size": 4397467,
       "scope": {
         "ISA": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "eb8e1d5d2981dbd7d7849d4030d6adea"
+        "md5": "9ce277a068964452d0256f7c1e5527cb"
       },
       "mimeType": "text/plain",
-      "size": 5002532,
+      "size": 5002754,
       "scope": {
         "JER": []
       }
