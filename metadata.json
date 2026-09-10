@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-09T22:17:17.554Z",
+    "dateCreated": "2026-09-10T19:01:42.364Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "ea06aadfdff8b02ef2bb5956439a61318fae57af",
-          "timestamp": "2026-09-09T22:17:17.554Z"
+          "revision": "7af702b742ab891a41573d21d39a65a323e5562a",
+          "timestamp": "2026-09-10T19:01:42.364Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "f7a11b93c52cf948cc109054d5d6c4b7"
+        "md5": "a16906c09532b39c233f0ac939d104df"
       },
       "mimeType": "text/plain",
-      "size": 2601411,
+      "size": 2601255,
       "scope": {
         "1CH": []
       }
@@ -1040,10 +1040,10 @@
     },
     "ingredients/AMO.usfm": {
       "checksum": {
-        "md5": "1ad5f0df19798fd72bbb01f28fc90ab5"
+        "md5": "c57697879a91ddc6bcf136a2b5c80f3c"
       },
       "mimeType": "text/plain",
-      "size": 518603,
+      "size": 518602,
       "scope": {
         "AMO": []
       }
@@ -1060,7 +1060,7 @@
     },
     "ingredients/DAN.usfm": {
       "checksum": {
-        "md5": "f9233e3d76910ce49bc06c3988f9e525"
+        "md5": "bbee9987fb48a7724c1829181fe655b9"
       },
       "mimeType": "text/plain",
       "size": 1501050,
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "986d2d254a325979ff747bbf375d3fc2"
+        "md5": "31f6d83520916b36383818c14d340778"
       },
       "mimeType": "text/plain",
-      "size": 4720997,
+      "size": 4708775,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "d4f6324d12f17cd5c756bdde00903fc9"
+        "md5": "d9bdde12253f70e26918142eb36340d2"
       },
       "mimeType": "text/plain",
-      "size": 5001946,
+      "size": 5002158,
       "scope": {
         "JER": []
       }
@@ -1404,10 +1404,10 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "cd8776f68aa4a33cbc66f14c4b0a76be"
+        "md5": "ace675c9b605f96e65cdfdeffb10fc45"
       },
       "mimeType": "text/plain",
-      "size": 4083034,
+      "size": 4083035,
       "scope": {
         "NUM": []
       }
