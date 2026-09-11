@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-10T19:01:42.364Z",
+    "dateCreated": "2026-09-11T21:06:30.168Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "7af702b742ab891a41573d21d39a65a323e5562a",
-          "timestamp": "2026-09-10T19:01:42.364Z"
+          "revision": "c76c1dcc697d2b608e05128f17a1bc9ebb41cc73",
+          "timestamp": "2026-09-11T21:06:30.168Z"
         }
       }
     },
@@ -940,7 +940,7 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "cdba6b7422f9bc5b75db7cce41595ba6"
+        "md5": "d6626a7d7ef82ccad7d46060c9b481db"
       },
       "mimeType": "text/plain",
       "size": 3343458,
@@ -1040,7 +1040,7 @@
     },
     "ingredients/AMO.usfm": {
       "checksum": {
-        "md5": "c57697879a91ddc6bcf136a2b5c80f3c"
+        "md5": "1308e68fd83068aa0cfc0ffdfe15bf95"
       },
       "mimeType": "text/plain",
       "size": 518602,
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "31f6d83520916b36383818c14d340778"
+        "md5": "fa29a92819702324aaeda1bf624af8fa"
       },
       "mimeType": "text/plain",
-      "size": 4708775,
+      "size": 4710617,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "d9bdde12253f70e26918142eb36340d2"
+        "md5": "682aeee9a183284f1e02c022c72a2340"
       },
       "mimeType": "text/plain",
-      "size": 5002158,
+      "size": 5092791,
       "scope": {
         "JER": []
       }
@@ -1404,7 +1404,7 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "ace675c9b605f96e65cdfdeffb10fc45"
+        "md5": "0363c6544ceb465dda46775dccbe57eb"
       },
       "mimeType": "text/plain",
       "size": 4083035,
@@ -1514,7 +1514,7 @@
     },
     "ingredients/ZEC.usfm": {
       "checksum": {
-        "md5": "93f035a50ebfe53cbf7189de69343878"
+        "md5": "3a5c24ccd0eb50256972b8aa85d8b726"
       },
       "mimeType": "text/plain",
       "size": 783191,
