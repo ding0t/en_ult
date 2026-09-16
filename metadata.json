@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-15T11:30:33.092Z",
+    "dateCreated": "2026-09-16T17:33:37.973Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "216c2a01c5562994d954392033dfad700fd84ea4",
-          "timestamp": "2026-09-15T11:30:33.092Z"
+          "revision": "1842e24e3031600614aff2e7db42e017554e640a",
+          "timestamp": "2026-09-16T17:33:37.973Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "b3dc9a57624b0311dad64a59dd171b28"
+        "md5": "c7b79d39a9148534798d6f1fe9a801cd"
       },
       "mimeType": "text/plain",
-      "size": 2600877,
+      "size": 2600667,
       "scope": {
         "1CH": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "126e412bc6614b335267e356cda43330"
+        "md5": "f86b93ef268cc0a22e9e69e5eb04e68b"
       },
       "mimeType": "text/plain",
-      "size": 4712722,
+      "size": 4716585,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "7f44139326dd7e0596ecc9829c02467e"
+        "md5": "64a50c1644320f612adc0db4df9b2e15"
       },
       "mimeType": "text/plain",
-      "size": 5177135,
+      "size": 5176615,
       "scope": {
         "JER": []
       }
@@ -1404,10 +1404,10 @@
     },
     "ingredients/NUM.usfm": {
       "checksum": {
-        "md5": "0363c6544ceb465dda46775dccbe57eb"
+        "md5": "3b1a1e43418fed0dcfd57602756fb5e3"
       },
       "mimeType": "text/plain",
-      "size": 4083035,
+      "size": 4083034,
       "scope": {
         "NUM": []
       }
@@ -1514,10 +1514,10 @@
     },
     "ingredients/ZEC.usfm": {
       "checksum": {
-        "md5": "b3f66779ed99c7b1f68148aefbc6944d"
+        "md5": "57c57753da7574bc93e594c988971ac0"
       },
       "mimeType": "text/plain",
-      "size": 783201,
+      "size": 783200,
       "scope": {
         "ZEC": []
       }
