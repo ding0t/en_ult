@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-16T21:20:54.833Z",
+    "dateCreated": "2026-09-17T19:58:45.962Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "8636d8677b7401f70102ff99301050e544ec606c",
-          "timestamp": "2026-09-16T21:20:54.833Z"
+          "revision": "8eabddcb6d9506d22033e42e5c64db71bf4a4191",
+          "timestamp": "2026-09-17T19:58:45.962Z"
         }
       }
     },
@@ -860,10 +860,10 @@
   "ingredients": {
     "ingredients/1CH.usfm": {
       "checksum": {
-        "md5": "c7b79d39a9148534798d6f1fe9a801cd"
+        "md5": "1f312ad2584c64bfe61ea53c2e09306f"
       },
       "mimeType": "text/plain",
-      "size": 2600667,
+      "size": 2600509,
       "scope": {
         "1CH": []
       }
@@ -1080,10 +1080,10 @@
     },
     "ingredients/ECC.usfm": {
       "checksum": {
-        "md5": "f4ca7024cab6319427ae1d1177a72bc8"
+        "md5": "5c9f56fcf62d27be05c3c6b96b8a6dc8"
       },
       "mimeType": "text/plain",
-      "size": 745475,
+      "size": 747403,
       "scope": {
         "ECC": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "f86b93ef268cc0a22e9e69e5eb04e68b"
+        "md5": "c229fa7479f8480954cc8afe665b8dc2"
       },
       "mimeType": "text/plain",
-      "size": 4716585,
+      "size": 4716137,
       "scope": {
         "EZK": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "6b1c45e9711f0fe25e8dc615580d1125"
+        "md5": "876c2f6d159d9d777a4b1cf609a1e046"
       },
       "mimeType": "text/plain",
-      "size": 5409149,
+      "size": 5409098,
       "scope": {
         "JER": []
       }
@@ -1514,7 +1514,7 @@
     },
     "ingredients/ZEC.usfm": {
       "checksum": {
-        "md5": "57c57753da7574bc93e594c988971ac0"
+        "md5": "8d5066ba52fa71f7589bd5d570805663"
       },
       "mimeType": "text/plain",
       "size": 783200,
