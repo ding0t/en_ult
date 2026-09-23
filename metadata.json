@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-09-23T20:52:15.808Z",
+    "dateCreated": "2026-09-23T20:56:42.683Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "bc278b97e9ed3cf742e0fb22fcb3d82513e0a9ba",
-          "timestamp": "2026-09-23T20:52:15.808Z"
+          "revision": "95b0f5736fc22af65a3c860c8951c3743eebd749",
+          "timestamp": "2026-09-23T20:56:42.683Z"
         }
       }
     },
@@ -1100,10 +1100,10 @@
     },
     "ingredients/EST.usfm": {
       "checksum": {
-        "md5": "7b5196b0b4018c3eb14d6c599cff1e0c"
+        "md5": "480e8eba8b22f1e78073d95dbf80322e"
       },
       "mimeType": "text/plain",
-      "size": 772394,
+      "size": 772400,
       "scope": {
         "EST": []
       }
@@ -1120,10 +1120,10 @@
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "575a94edd7bddda2b66e2f017c6590a3"
+        "md5": "d36e6ef9236bf674d6372c3800599da1"
       },
       "mimeType": "text/plain",
-      "size": 4721105,
+      "size": 4721187,
       "scope": {
         "EZK": []
       }
@@ -1207,10 +1207,10 @@
     },
     "ingredients/ISA.usfm": {
       "checksum": {
-        "md5": "1c276761521f1337c7d0ab48f4dbdb6b"
+        "md5": "f58b7ece9d1c9426f27ae86354ce41bd"
       },
       "mimeType": "text/plain",
-      "size": 4402168,
+      "size": 4402229,
       "scope": {
         "ISA": []
       }
@@ -1227,20 +1227,20 @@
     },
     "ingredients/JDG.usfm": {
       "checksum": {
-        "md5": "7d43ec447e6e5d9a4df91d0246d82e59"
+        "md5": "13dfcc7fe3fe2d9b1106f975a7674d13"
       },
       "mimeType": "text/plain",
-      "size": 2474966,
+      "size": 2475048,
       "scope": {
         "JDG": []
       }
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "6cee7b52be6e67a1ec34a09e8e95ee76"
+        "md5": "73bd8514e5325b92eba0af87da1c9752"
       },
       "mimeType": "text/plain",
-      "size": 5419756,
+      "size": 5419762,
       "scope": {
         "JER": []
       }
@@ -1287,10 +1287,10 @@
     },
     "ingredients/JOS.usfm": {
       "checksum": {
-        "md5": "eb0df8ca3ddd79393499138220bf05ac"
+        "md5": "e66301ad082a2bce5d49ba1f2396e0cd"
       },
       "mimeType": "text/plain",
-      "size": 2479960,
+      "size": 2480050,
       "scope": {
         "JOS": []
       }
