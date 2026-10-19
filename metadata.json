@@ -9,7 +9,7 @@
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-10-18T05:38:34.434Z",
+    "dateCreated": "2026-10-19T21:25:25.807Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "95adfab7bbe970d79a8b0e24d1a843b487095421",
-          "timestamp": "2026-10-18T05:38:34.434Z"
+          "revision": "178ff7cd78f86585be78056ebaba87016e508095",
+          "timestamp": "2026-10-19T21:25:25.807Z"
         }
       }
     },
@@ -910,10 +910,10 @@
     },
     "ingredients/1SA.usfm": {
       "checksum": {
-        "md5": "7f313d01e3a5466f98b8bc073a852d70"
+        "md5": "3a728168a9811b34e18d0b2de5c1598d"
       },
       "mimeType": "text/plain",
-      "size": 3324905,
+      "size": 3324904,
       "scope": {
         "1SA": []
       }
@@ -970,10 +970,10 @@
     },
     "ingredients/2KI.usfm": {
       "checksum": {
-        "md5": "2bbc8bcc5e22fa2449ec53696a372bbd"
+        "md5": "fe6defc06842166a9a62cb13eec2c8d8"
       },
       "mimeType": "text/plain",
-      "size": 3040624,
+      "size": 3040623,
       "scope": {
         "2KI": []
       }
@@ -990,10 +990,10 @@
     },
     "ingredients/2SA.usfm": {
       "checksum": {
-        "md5": "fa3c4aa4744f86aed760c0ba6d8dba2e"
+        "md5": "f93e988882d61dbf9449df454c8e78db"
       },
       "mimeType": "text/plain",
-      "size": 2745238,
+      "size": 2745237,
       "scope": {
         "2SA": []
       }
@@ -1110,20 +1110,20 @@
     },
     "ingredients/EXO.usfm": {
       "checksum": {
-        "md5": "1efd04c49365737058644a6c299fd881"
+        "md5": "3e0975c53805b7e23551c52640c4bfa8"
       },
       "mimeType": "text/plain",
-      "size": 4181935,
+      "size": 4181922,
       "scope": {
         "EXO": []
       }
     },
     "ingredients/EZK.usfm": {
       "checksum": {
-        "md5": "4f524e331be936d30da8a494e3afe6f9"
+        "md5": "5c28fc7d0c4ce660887c1e666c906820"
       },
       "mimeType": "text/plain",
-      "size": 4720772,
+      "size": 4720756,
       "scope": {
         "EZK": []
       }
@@ -1157,10 +1157,10 @@
     },
     "ingredients/GEN.usfm": {
       "checksum": {
-        "md5": "9fcef483cd03f50df6b300fd063a0e35"
+        "md5": "63a6511ddc84517e116a925e7d683c1d"
       },
       "mimeType": "text/plain",
-      "size": 5148973,
+      "size": 5148972,
       "scope": {
         "GEN": []
       }
@@ -1187,10 +1187,10 @@
     },
     "ingredients/HEB.usfm": {
       "checksum": {
-        "md5": "12dbebca9f2b7cf4b2c58d91804feb5b"
+        "md5": "524468ca91fb80b347b15f25cd4a66e6"
       },
       "mimeType": "text/plain",
-      "size": 1090084,
+      "size": 1090083,
       "scope": {
         "HEB": []
       }
@@ -1207,10 +1207,10 @@
     },
     "ingredients/ISA.usfm": {
       "checksum": {
-        "md5": "d9a5df3ceeb6c3ae92c34bf6eacc807f"
+        "md5": "127aed4892e0876eb2af1a7d8c352ec5"
       },
       "mimeType": "text/plain",
-      "size": 4402880,
+      "size": 4402879,
       "scope": {
         "ISA": []
       }
@@ -1454,10 +1454,10 @@
     },
     "ingredients/PSA.usfm": {
       "checksum": {
-        "md5": "eb038466ffb22560fcf782c2b303dc5a"
+        "md5": "f275175d3578e2741e34cf2a8cab82a6"
       },
       "mimeType": "text/plain",
-      "size": 5146082,
+      "size": 5146080,
       "scope": {
         "PSA": []
       }
