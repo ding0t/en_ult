@@ -5,11 +5,11 @@
     "category": "source",
     "generator": {
       "softwareName": "go-rc2sb",
-      "softwareVersion": "v0.5.0",
+      "softwareVersion": "v0.7.0",
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-10-23T05:37:38.920Z",
+    "dateCreated": "2026-10-24T05:41:51.324Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "9f70196966a0e01418fc8c0389b19190f1817b2f",
-          "timestamp": "2026-10-23T05:37:38.920Z"
+          "revision": "5dbed264ceebc391275168d2cd4700c858c151e4",
+          "timestamp": "2026-10-24T05:41:51.324Z"
         }
       }
     },
@@ -940,10 +940,10 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "d8ee9cb3fd4f89761d3850eec32c6339"
+        "md5": "bc675d04805bdc23d2f6709238a63809"
       },
       "mimeType": "text/plain",
-      "size": 3340418,
+      "size": 3339432,
       "scope": {
         "2CH": []
       }
