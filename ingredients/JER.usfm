@@ -38685,7 +38685,7 @@
 \w act|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*
 \w a|x-occurrence="2" x-occurrences="2"\w*
-\w moment|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\w moment|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
 \zaln-s |x-strong="H7323" x-lemma="רוּץ" x-morph="He,Vhi1cs:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="אֲרִיצֶ֨⁠נּוּ"\*\w I|x-occurrence="2" x-occurrences="3"\w*
 \w will|x-occurrence="3" x-occurrences="6"\w*
 \w make|x-occurrence="1" x-occurrences="1"\w*
