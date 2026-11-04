@@ -5,11 +5,11 @@
     "category": "source",
     "generator": {
       "softwareName": "go-rc2sb",
-      "softwareVersion": "v0.7.0",
+      "softwareVersion": "v0.9.0",
       "userName": ""
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-11-03T05:57:44.371Z",
+    "dateCreated": "2026-11-04T05:36:35.550Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -24,8 +24,8 @@
     "primary": {
       "dcs": {
         "unfoldingWord/en_ult": {
-          "revision": "d9d9f4811534ad2ad82730f23a5835b454c53ba7",
-          "timestamp": "2026-11-03T05:57:44.371Z"
+          "revision": "216b6c803a199682c4ef0f004197b6b3902ff2de",
+          "timestamp": "2026-11-04T05:36:35.550Z"
         }
       }
     },
@@ -940,10 +940,10 @@
     },
     "ingredients/2CH.usfm": {
       "checksum": {
-        "md5": "9b53bb8c398a6d9cc1a65cd95063ddf9"
+        "md5": "7e5a81142661e04a1ce51ff4651feba4"
       },
       "mimeType": "text/plain",
-      "size": 3338097,
+      "size": 3337493,
       "scope": {
         "2CH": []
       }
@@ -1237,10 +1237,10 @@
     },
     "ingredients/JER.usfm": {
       "checksum": {
-        "md5": "a5c44eb1089380cbc8ed52634a269454"
+        "md5": "e9c6ec44fb649767ce80ceddc597e8c2"
       },
       "mimeType": "text/plain",
-      "size": 5422284,
+      "size": 5422101,
       "scope": {
         "JER": []
       }
